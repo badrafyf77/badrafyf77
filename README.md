@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Badreddine afyf</h1>
 <h3 align="center">A passionate Mobile developer | full stack developer</h3>
 
-- 🌱 I’m currently learning **Java EE , php**
+- 🌱 I’m currently learning **Java Spring Boot , php**
 
 - 💬 Ask me about **Flutter , vb.net**
 
