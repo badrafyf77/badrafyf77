@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Badreddine afyf</h1>
 <h3 align="center">A passionate Mobile developer | full stack developer</h3>
 
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently studying **"Licence d'Excellence en Intelligence Artificielle"**
 
-- 💬 Ask me about **Flutter , vb.net**
+- 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **badr123afyf@gmail.con**
+- 📫 How to reach me **afyfbadreddine@gmail.con**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
