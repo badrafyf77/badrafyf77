@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **afyfbadreddine@gmail.conm**
+- 📫 How to reach me **afyfbadreddine@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
