@@ -37,11 +37,11 @@
 
 <div align="center">
 <h2 align='center'><strong>Socials and Coding Profiles 💻</strong></h2>
-<br>
 <a href="https://www.linkedin.com/in/badreddine-afyf-235a07284/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:afyfbadreddine@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
 </div>
+
+<br>
 
 <div align="center">
 <h2 align='center'><strong>Languages, Tools and Technologies 🚀</strong></h2>
