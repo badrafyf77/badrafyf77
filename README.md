@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=28&pause=1000&color=E2E2E2&center=true&vCenter=true&width=1100&lines=Welcome+to+my+GitHub+Universe;AI+Engineer+Building+Real+World+Intelligence;LLMs+%7C+Computer+Vision+%7C+Automation" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hi There! <span style="font-size: 34px;">👋</span>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg" alt="Afyf Badreddine"/></h1>
+<h1 align="center">Hi There! 👋&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg" alt="Afyf Badreddine" height="58" style="vertical-align: middle;" /></h1>
 
 <h3 align="center">AI Engineer | LLMs, NLP, Computer Vision, and Applied Automation</h3>
 
@@ -101,6 +101,8 @@
 <br/>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
+
+<div style="clear: both;"></div>
 
 <div align="center">
 <h3 align='center'><strong>Github Analytics ⚙️</strong></h3>
