@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=28&pause=1000&color=E2E2E2&center=true&vCenter=true&width=1100&lines=Welcome+to+my+GitHub+Universe;AI+Engineer+Building+Real+World+Intelligence;LLMs+%7C+Computer+Vision+%7C+Automation" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg" alt="Afyf Badreddine"/></h1>
+<h1 align="center">Hi There! <span style="font-size: 34px;">👋</span>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg" alt="Afyf Badreddine"/></h1>
 
 <h3 align="center">AI Engineer | LLMs, NLP, Computer Vision, and Applied Automation</h3>
 
@@ -99,15 +99,6 @@
 <h3 align='center'><strong>Github Analytics ⚙️</strong></h3>
 </div>
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution profile" style="width: 100%; max-width: 900px;" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badrafyf77&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrafyf77&layout=compact&theme=tokyonight" alt="Top languages" height="170" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=badrafyf77&theme=tokyonight" alt="GitHub streak" />
 </p>
@@ -120,8 +111,13 @@
   <img src="./assets/space-shooter.gif" alt="GitHub space shooter" width="90%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/badrafyf77/badrafyf77/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%" />
-</p>
+<div align="center">
+<h2 align='center'><strong>Socials and Coding Profiles 💻</strong></h2>
+
+ <br><br>
+<a href="https://www.linkedin.com/in/badreddine-afyf-235a07284/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:afyfbadreddine@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+</div>
 
 <img src="https://i.pinimg.com/originals/69/49/88/69498848f1d27b76c2b42f8e97e9d082.gif" width="100%">
