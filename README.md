@@ -37,6 +37,14 @@
 </table>
 
 <div align="center">
+<h2 align='center'><strong>Socials and Coding Profiles 💻</strong></h2>
+<br>
+<a href="https://www.linkedin.com/in/badreddine-afyf-235a07284/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:afyfbadreddine@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+</div>
+
+<div align="center">
 <h2 align='center'><strong>Languages, Tools and Technologies 🚀</strong></h2>
   <br>
 <table>
@@ -110,14 +118,5 @@
 <p align="center">
   <img src="./assets/space-shooter.gif" alt="GitHub space shooter" width="90%" />
 </p>
-
-<div align="center">
-<h2 align='center'><strong>Socials and Coding Profiles 💻</strong></h2>
-
- <br><br>
-<a href="https://www.linkedin.com/in/badreddine-afyf-235a07284/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:afyfbadreddine@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-</div>
 
 <img src="https://i.pinimg.com/originals/69/49/88/69498848f1d27b76c2b42f8e97e9d082.gif" width="100%">
