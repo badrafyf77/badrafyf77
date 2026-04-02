@@ -95,8 +95,6 @@
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
 
-## GitHub Analytics
-
 <div align="center">
 <h3 align='center'><strong>Github Analytics ⚙️</strong></h3>
 </div>
