@@ -11,9 +11,7 @@
 <h3 align="center">AI Engineer | LLMs, NLP, Computer Vision, and Applied Automation</h3>
 
 <p align="center">
-  <a href="mailto:afyfbadreddine@gmail.com">afyfbadreddine@gmail.com</a> •
-  <a href="https://github.com/badrafyf77">github.com/badrafyf77</a> •
-  Berrechid, Morocco
+  🇲🇦 Casablanca, Morocco 🇲🇦
 </p>
 
 <p align="center">
