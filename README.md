@@ -109,15 +109,15 @@
 </div>
 
 <p align="center">
+  <img src="https://u.cubeupload.com/afyfbadreddine/spaceshooter.gif" alt="GitHub space shooter" width="90%" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=badrafyf77&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badrafyf77&theme=github_dark" alt="profile summary" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://u.cubeupload.com/afyfbadreddine/spaceshooter.gif" alt="GitHub space shooter" width="90%" />
 </p>
 
 <img src="https://i.pinimg.com/originals/69/49/88/69498848f1d27b76c2b42f8e97e9d082.gif" width="100%">
