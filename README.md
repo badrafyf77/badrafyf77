@@ -1,16 +1,111 @@
-<h1 align="center">Hi 👋, I'm Badreddine afyf</h1>
-<h3 align="center">A passionate Mobile developer | full stack developer</h3>
+<br>
 
-- 🌱 I’m currently studying **"Licence d'Excellence en Intelligence Artificielle"**
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-- 💬 Ask me about **Flutter**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=28&pause=1000&color=E2E2E2&center=true&vCenter=true&width=1100&lines=Welcome+to+my+GitHub+Universe;AI+Engineer+Building+Real+World+Intelligence;LLMs+%7C+Computer+Vision+%7C+Automation" alt="Typing SVG" />
+</div>
 
-- 📫 How to reach me **afyfbadreddine@gmail.com**
+<h1 align="center">Afyf Badreddine</h1>
+<h3 align="center">AI Engineer | LLMs, NLP, Computer Vision, and Applied Automation</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/badreddine-afyf-235a07284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badreddine afyf" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:afyfbadreddine@gmail.com">afyfbadreddine@gmail.com</a> •
+  <a href="https://github.com/badrafyf77">github.com/badrafyf77</a> •
+  Berrechid, Morocco
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=badrafyf77&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<img align="right" alt="Coding" width="420" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
+
+## About Me
+
+- AI engineer passionate about building useful, production-ready intelligent systems.
+- Currently completing a Master of Excellence in Artificial Intelligence (FS Ben M'Sik, Casablanca).
+- Interested in LLM applications, RAG systems, prompt engineering, and real-time AI interfaces.
+- Open to internships, collaboration, and AI engineering opportunities.
+
+## Experience Snapshot
+
+- AI Engineer Intern at Events Week (Rabat): built an AI-powered web chatbot with context-aware responses and automated assistance.
+- Developer Intern at SEWS CABIND (Berrechid): developed a desktop app for multi-site IT asset management using Flutter, Firebase, MVVM, and BLoC.
+
+## Tech Stack
+
+- Programming: C, C++, Java, PHP, VB, Python, Dart, SQL
+- AI/ML: PyTorch, TensorFlow, Scikit-learn, Keras, Hugging Face, LangChain
+- AI Focus: LLMs, NLP, Computer Vision, Fine-tuning, RAG, Prompt Engineering
+- Deployment and MLOps: Docker, FastAPI, Git, AWS
+- Automation: n8n, LangGraph, Amazon Bedrock
+
+## Selected Projects
+
+1. Real-time Moroccan traffic sign detection and classification using YOLOv11n and a custom dataset.
+2. Intelligent Interview Assistant: real-time voice pipeline (Whisper STT -> streaming LLM -> TTS) with turn-taking and interruption handling.
+3. Customer Support Automation: n8n + RAG + Pinecone workflow with ticket routing and automated email support.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="180" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="180" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="180" />
+</div>
+
+<br>
+
+<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
+<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
+
+<br/>
+<br/>
+<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
+<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
+
+## GitHub Analytics
+
+<div align="center">
+<h3 align='center'><strong>Github Analytics ⚙️</strong></h3>
+</div>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution profile" style="width: 100%; max-width: 900px;" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=badrafyf77&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrafyf77&layout=compact&theme=tokyonight" alt="Top languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=badrafyf77&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badrafyf77&theme=github_dark" alt="profile summary" width="95%" />
+</p>
+
+<p align="center">
+  <img src="./assets/space-shooter.gif" alt="GitHub space shooter" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/badrafyf77/badrafyf77/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%" />
+</p>
+
+## How To Generate Your Own Stats and GIFs
+
+1. 3D contributions: generated by workflow file `.github/workflows/profile-3d.yml`. It already uses the repository owner automatically, so it works when pushed to your profile repo.
+2. Space shooter GIF: generated by workflow file `.github/workflows/space-shooter.yml` and saved to `assets/space-shooter.gif`.
+3. Snake animation: generated by workflow file `.github/workflows/snake.yml` and published to branch `output`.
+4. Stats cards: URLs in this README use `username=badrafyf77`. Replace only the `username` query value if you ever change account.
+
+## Quick Setup Checklist
+
+1. Create a profile repository named exactly `badrafyf77` on GitHub.
+2. Push this project to that repository.
+3. Open Actions tab on GitHub and run workflows once with `Run workflow`.
+4. Wait 1-2 minutes, then refresh the profile page.
+
+<img src="https://i.pinimg.com/originals/69/49/88/69498848f1d27b76c2b42f8e97e9d082.gif" width="100%">
