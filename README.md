@@ -12,7 +12,7 @@
 
 <p align="center">
   Passionate AI engineer from Morocco
-  <img src="https://raw.githubusercontent.com/badrafyf77/badrafyf77/main/assets/morocco-flag-gif.gif" alt="Morocco flag" width="44" height="28" style="vertical-align: middle; margin-left: 8px; border-radius: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/badrafyf77/badrafyf77@main/assets/morocco-flag-gif.gif" alt="Morocco flag" width="44" height="28" style="vertical-align: middle; margin-left: 8px; border-radius: 3px;" />
 </p>
 
 <p align="center">
@@ -117,7 +117,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/badrafyf77/badrafyf77/main/assets/space-shooter.gif" alt="GitHub space shooter" width="90%" />
+  <img src="https://cdn.jsdelivr.net/gh/badrafyf77/badrafyf77@main/assets/space-shooter.gif" alt="GitHub space shooter" width="90%" />
 </p>
 
 <img src="https://i.pinimg.com/originals/69/49/88/69498848f1d27b76c2b42f8e97e9d082.gif" width="100%">
