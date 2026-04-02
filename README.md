@@ -11,7 +11,8 @@
 <h3 align="center">AI Engineer | LLMs, NLP, Computer Vision, and Applied Automation</h3>
 
 <p align="center">
-  🇲🇦 Casablanca, Morocco 🇲🇦
+  Passionate AI engineer from Morocco
+  <img src="./assets/morocco-flag-gif.gif" alt="Morocco flag" width="44" height="28" style="vertical-align: middle; margin-left: 8px; border-radius: 3px;" />
 </p>
 
 <p align="center">
@@ -20,7 +21,7 @@
 
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td width="56%" valign="top">
       <h2>About Me</h2>
       <p>AI engineer focused on building practical intelligence for real users and real products.</p>
       <p>🤖 <strong>LLM Systems:</strong> RAG pipelines, prompt engineering, and fine-tuning workflows.</p>
@@ -28,8 +29,8 @@
       <p>⚙️ <strong>Deployment Mindset:</strong> FastAPI services, Dockerized apps, automation with n8n and LangGraph.</p>
       <p>🚀 <strong>Goal:</strong> Build high-impact AI products and collaborate on ambitious engineering challenges.</p>
     </td>
-    <td width="38%" align="right" valign="top">
-      <img alt="Coding" height="250" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
+    <td width="44%" align="center" valign="middle">
+      <img alt="Coding" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif" width="100%" style="max-width: 500px; height: auto; border-radius: 8px;"/>
     </td>
   </tr>
 </table>
